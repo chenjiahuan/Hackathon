@@ -1,5 +1,5 @@
 # 课题 给灵矽实现一个ai角色
-灵矽官网地址：https://xrobo.qiniu.com。
+灵矽官网地址：https://xrobo.qiniu.com
 
 灵矽智能体设定：
 
